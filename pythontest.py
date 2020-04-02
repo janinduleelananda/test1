@@ -1,7 +1,12 @@
-<<<<<<< HEAD
+
 print("sometingelse")
 print("my name is janindu")
-print("hi")
+print("hi people")
 
->>>>>>> 0fa391379f9558bf40abed697e2e32b09edff934
+print("done")
+print("newline")
 
+print("this is the new line")
+
+
+#change
